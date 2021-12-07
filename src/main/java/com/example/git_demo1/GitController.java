@@ -8,7 +8,7 @@ public class GitController {
     
     @GetMapping("/test")
     public String test() {
-        return "test12";
+        return "test1";
     }
     
 }
